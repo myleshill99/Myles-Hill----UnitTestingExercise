@@ -1,9 +1,10 @@
 ﻿using System;
-
 namespace UnitTestingExercise
 {
-    class Program
+    public class Program
     {
+        // Done -Create and Add method that passes 3 integers
+             
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
